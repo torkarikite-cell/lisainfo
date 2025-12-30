@@ -1,0 +1,100 @@
+{
+  "name": "Lisa",
+  "tagline": "Discreet, polished presence for refined evenings and elegant occasions.",
+  "location": "London",
+  "telegram": "https://t.me/placeholder",
+  "whatsapp": "WhatsApp available on request",
+  "heroImage": "/images/hero.jpg",
+  "bio": [
+    "My name is Lisa. I embody elegance, confidence, and refined femininity. I value discretion, intelligence, and meaningful connection, and I take pride in offering an experience that feels natural, polished, and exclusive.",
+    "I am attentive, well-spoken, and emotionally intuitive — someone who understands the art of presence and the importance of subtlety. I appreciate fine aesthetics, beautiful environments, and moments created with intention. Every encounter is approached with care, respect, and a sense of individuality.",
+    "If you are seeking a sophisticated companion who moves effortlessly in both intimate and social settings, I invite you to step into my world — where quality, calm, and elegance come first."
+  ],
+  "expectations": [
+    "Attentive conversation and genuine presence",
+    "Discretion, respect, and refined etiquette",
+    "Elegant appearance and polished demeanor",
+    "Tailored engagements shaped around your setting"
+  ],
+  "boundaries": "Mutual respect and discretion are essential. All arrangements are discussed clearly in advance.",
+  "rates": [
+    {
+      "title": "One Hour",
+      "price": "£300",
+      "description": "A focused, elegant meeting for private conversation.",
+      "includes": ["Discreet meet", "Soft social engagement", "Calm, refined atmosphere"]
+    },
+    {
+      "title": "Two Hours",
+      "price": "£550",
+      "description": "Unhurried connection with room to settle into the moment.",
+      "includes": ["Extended companionship", "Light social setting", "Tailored pacing"]
+    },
+    {
+      "title": "Evening",
+      "price": "£1,100",
+      "description": "An elevated evening designed around your plans.",
+      "includes": ["Dinner or events", "Elegant social presence", "Discreet support"]
+    }
+  ],
+  "durations": ["One hour", "Two hours", "Evening", "Custom"],
+  "availability": [
+    { "day": "Mon", "status": "Available" },
+    { "day": "Tue", "status": "Limited" },
+    { "day": "Wed", "status": "Available" },
+    { "day": "Thu", "status": "Limited" },
+    { "day": "Fri", "status": "Available" },
+    { "day": "Sat", "status": "Limited" },
+    { "day": "Sun", "status": "Unavailable" }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "src": "/images/1.jpg",
+      "alt": "Portrait in soft light",
+      "category": "Elegant"
+    },
+    {
+      "id": 2,
+      "src": "/images/2.jpg",
+      "alt": "Evening lounge setting",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 3,
+      "src": "/images/3.jpg",
+      "alt": "Elegant styling",
+      "category": "Elegant"
+    },
+    {
+      "id": 4,
+      "src": "/images/4.png",
+      "alt": "City evening ambience",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 5,
+      "src": "/images/5.jpg",
+      "alt": "Refined interior detail",
+      "category": "Casual"
+    },
+    {
+      "id": 6,
+      "src": "/images/6.jpg",
+      "alt": "Classic portrait",
+      "category": "Elegant"
+    },
+    {
+      "id": 7,
+      "src": "/images/7.jpg",
+      "alt": "Neutral wardrobe tones",
+      "category": "Casual"
+    },
+    {
+      "id": 8,
+      "src": "/images/8.jpg",
+      "alt": "Soft cafe scene",
+      "category": "Lifestyle"
+    }
+  ]
+}
