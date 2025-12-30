@@ -20,19 +20,19 @@
   "rates": [
     {
       "title": "One Hour",
-      "price": "£300",
+      "price": "£350",
       "description": "A focused, elegant meeting for private conversation.",
       "includes": ["Discreet meet", "Soft social engagement", "Calm, refined atmosphere"]
     },
     {
       "title": "Two Hours",
-      "price": "£550",
+      "price": "£600",
       "description": "Unhurried connection with room to settle into the moment.",
       "includes": ["Extended companionship", "Light social setting", "Tailored pacing"]
     },
     {
       "title": "Evening",
-      "price": "£1,100",
+      "price": "£1,200",
       "description": "An elevated evening designed around your plans.",
       "includes": ["Dinner or events", "Elegant social presence", "Discreet support"]
     }
