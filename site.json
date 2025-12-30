@@ -40,7 +40,7 @@
   "durations": ["One hour", "Two hours", "Evening", "Custom"],
   "availability": [
     { "day": "Mon", "status": "Available" },
-    { "day": "Tue", "status": "Limited" },
+    { "day": "Tue", "status": "Available" },
     { "day": "Wed", "status": "Available" },
     { "day": "Thu", "status": "Limited" },
     { "day": "Fri", "status": "Available" },
