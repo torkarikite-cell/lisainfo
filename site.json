@@ -45,7 +45,7 @@
     { "day": "Thu", "status": "Limited" },
     { "day": "Fri", "status": "Available" },
     { "day": "Sat", "status": "Limited" },
-    { "day": "Sun", "status": "Unavailable" }
+    { "day": "Sun", "status": "Available" }
   ],
   "images": [
     {
