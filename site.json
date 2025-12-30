@@ -37,6 +37,7 @@
       "includes": ["Dinner or events", "Elegant social presence", "Discreet support"]
     }
   ],
+  "extras": ["OWO", "CIM", "CIF"],
   "durations": ["One hour", "Two hours", "Evening", "Custom"],
   "availability": [
     { "day": "Mon", "status": "Available" },
