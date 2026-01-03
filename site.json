@@ -2,8 +2,8 @@
   "name": "Lisa",
   "tagline": "Discreet, polished presence for refined evenings and elegant occasions.",
   "location": "London",
-  "telegram": "https://t.me/placeholder",
-  "whatsapp": "WhatsApp available on request",
+  "whatsapp": "https://wa.me/447514233500",
+  "phone": "+44 7514 233500",
   "heroImage": "/images/hero.jpg",
   "bio": [
     "My name is Lisa. I embody elegance, confidence, and refined femininity. I value discretion, intelligence, and meaningful connection, and I take pride in offering an experience that feels natural, polished, and exclusive.",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Two Hours",
-      "price": "£700",
+      "price": "700",
       "description": "Unhurried connection with room to settle into the moment.",
       "includes": ["Extended companionship", "Light social setting", "Tailored pacing"]
     },
@@ -38,15 +38,15 @@
     }
   ],
   "extras": ["OWO", "CIM", "CIF"],
-  "durations": ["One hour", "Two hours", "Evening", "Custom"],
+  "durations": ["One hour", "Two hours", "Overnight", "Custom"],
   "availability": [
     { "day": "Mon", "status": "Available" },
-    { "day": "Tue", "status": "Available" },
+    { "day": "Tue", "status": "Limited" },
     { "day": "Wed", "status": "Available" },
     { "day": "Thu", "status": "Limited" },
     { "day": "Fri", "status": "Available" },
     { "day": "Sat", "status": "Limited" },
-    { "day": "Sun", "status": "Available" }
+    { "day": "Sun", "status": "Unavailable" }
   ],
   "images": [
     {
